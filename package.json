@@ -14,7 +14,8 @@
     "knex": "^0.11.3",
     "morgan": "~1.6.1",
     "pg": "^4.5.5",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.3.0",
+    "stripe": "^4.6.0"
   },
   "description": "",
   "main": "app.js",
