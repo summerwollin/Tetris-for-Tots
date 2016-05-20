@@ -1,5 +1,5 @@
 {
-  "name": "Tetris-for-Tots",
+  "name": "tetris-for-tots",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -15,5 +15,18 @@
     "morgan": "~1.6.1",
     "pg": "^4.5.5",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summerwollin/Tetris-for-Tots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summerwollin/Tetris-for-Tots/issues"
+  },
+  "homepage": "https://github.com/summerwollin/Tetris-for-Tots#readme"
 }
